@@ -1,0 +1,23 @@
+[package]
+name = "voltdb"
+version = "0.1.0"
+edition = "2021"
+description = "An in-memory vector database"
+license = "MIT"
+repository = "https://github.com/cesar-yoab/VoltDB"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = {version = "1.25.0", features = ["full"]}
+serde = {features = ["derive"]  }
+serde_json = {}
+bytes = {}
+futures = {}
+rand = {}
+lazy_static = {}
+
+[dev-dependencies]
+tokio-test = {}
+tokio-macros = {}
+proptest = {}
