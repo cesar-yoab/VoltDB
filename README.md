@@ -1,3 +1,7 @@
+<h2 align="center">NOTE: THIS PROJECT WAS WRITTEN ENTIRELY BY GPT-4 AS PART OF AN EXPLORATORY RESEARCH PROJECT</h2>
+<h2 align="center">I'M SHARING THIS CODE AS A SHOWCASE OF THE CAPABILITIES OF GPT-4</h2>
+<h2 align="center">DO NOT USE THIS CODE IN PRODUCTION</h2>
+
 # VoltDB
 
 VoltDB is an in-memory vector database that combines the ideas of Redis and Pinecone. It is designed to provide fast and efficient vector operations while maintaining low latency and high throughput. VoltDB is built using the Rust programming language and leverages the Tokio framework for asynchronous I/O.
